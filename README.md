@@ -44,4 +44,8 @@ Experience efficient personnel management with EMS. With a user-friendly interfa
 ### 9) Here you can update employee information:
 ![Screenshot 2024-04-25 224046](https://github.com/Aryesh404/Employee-Management-System/assets/142689032/b99c552d-616f-40b8-9673-7232e7e03a2e)
 
-### 10) 
+### 10) Register Employee:
+![Screenshot 2024-04-25 222235](https://github.com/Aryesh404/Employee-Management-System/assets/142689032/71a4d040-574e-42bc-8fc5-4737bc53b014)
+
+### 11) In Admin Access you will able to see Contact details:
+![Screenshot 2024-04-25 222258](https://github.com/Aryesh404/Employee-Management-System/assets/142689032/501c15f7-110e-4460-be52-43d90fcf9f8e)
