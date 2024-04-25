@@ -49,3 +49,7 @@ Experience efficient personnel management with EMS. With a user-friendly interfa
 
 ### 11) In Admin Access you will able to see Contact details:
 ![Screenshot 2024-04-25 222258](https://github.com/Aryesh404/Employee-Management-System/assets/142689032/501c15f7-110e-4460-be52-43d90fcf9f8e)
+
+---
+
+**Our Employee Management project** is committed to simplifying and enhancing your human resource management tasks. Join us in revolutionizing the way you manage your workforce!
