@@ -24,16 +24,18 @@ Experience efficient personnel management with EMS. With a user-friendly interfa
 
 
 ### 4) This is Employee login page:
-![Screenshot 2024-04-25 221731](https://github.com/Aryesh404/Employee-Management-System/assets/142689032/f934e015-c3f9-4421-883e-e64d2898cb12)
+![Screenshot 2024-04-25 221731](https://github.com/Aryesh404/Employee-Management-System/assets/142689032/2d0c26d1-af84-4e24-849f-6ed8f9ca0303)
+
 
 ### 5) Employee can login:
-![Screenshot 2024-04-25 221959](https://github.com/Aryesh404/Employee-Management-System/assets/142689032/a3815e7f-562a-4dc3-9911-79a7e4b769e3)
+![Screenshot 2024-04-25 221959](https://github.com/Aryesh404/Employee-Management-System/assets/142689032/29bed4af-59c3-4ebb-aedd-00e8beac2cf7)
+
 
 ### 6) After login you will get that employee details:
 ![Screenshot 2024-04-25 222010](https://github.com/Aryesh404/Employee-Management-System/assets/142689032/15e88a5e-32eb-425b-aca5-afc7748be6df)
 
 ### 7) This is Admin login page:
-![Screenshot 2024-04-25 222037](https://github.com/Aryesh404/Employee-Management-System/assets/142689032/1dfb8ee7-1e8f-46da-ac45-8c43740822fa)
+![Screenshot 2024-04-25 222037](https://github.com/Aryesh404/Employee-Management-System/assets/142689032/88c02784-f809-4d44-9367-0a537a98161c)
 
 
 ### 8) After Admin login you can access to all employees information and you update data and delete employees:
